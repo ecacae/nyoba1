@@ -1,0 +1,121 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Eka Rahayu D
+Eka Rahayu D
+Student
+
+Show Contacts
+
+Email
+ekarh1213@gmail.com
+
+Phone
+081384187324
+
+Birthday
+Sept 12, 2007
+
+Location
+Serang, Banten, Indonesia.
+
+# navbar
+
+About
+Resume
+Contact
+
+# about
+
+About me
+
+I'm Eka Rahayu Dinanti, a second-year high school student with a passion for music and writing novels. 
+I find joy and inspiration in creating melodies and crafting stories that captivate the imagination.
+
+
+## service
+
+What i'm doing
+
+alt = book icon
+study
+was in the second year of high school and won the Biology Science Olympiad.
+
+alt = camera icon
+Journalism Extraculicular
+a leader of journalism extraculicular
+
+alt = person icon
+OSIS
+part of intra-school student organization.
+
+alt = pencil icon
+writing
+I'm a creator of short novels
+
+
+## Family
+
+Family
+
+alt = Man
+Dad and lil brother
+I have two great men in my family, my father and my little brother.
+alt = Woman
+Mom and lil sister
+I have two kind woman in my family, my mother and my lil sister.
+
+alt = Woman
+Mom and lil sister
+I have two kind woman in my family, my mother and my lil sister.
+alt = Man
+Dad and lil brother
+I have two great men in my family, my father and my little brother.
+
+## Recent activities
+
+Recent activities
+
+alt = activities pict
+
+
+
+# resume
+
+Resume
+
+Education
+
+SMAN 3 Kota Serang
+2022 — 2025
+I studied at Sman 3 Kota Serang and majored in science and technology.
+MTsN 1 Kota Serang
+2019 — 2022
+After undergoing a difficult test and having a tough competition, I pursued my junior high school education at MTsN 1 Kota Serang.
+SDIT Insantama Serang
+2013 — 2019
+I spent my childhood and school years at SDIT Insantama Serang.
+
+My skills
+
+Design
+80%
+Cooking
+70%
+Study
+90%
+Leadership
+50%
+
+# contact
+
+Contact
+
+Contact Form
+
+Full Name
+Email address
+Your Message
+
+Send Message
